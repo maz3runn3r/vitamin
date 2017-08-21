@@ -9,12 +9,12 @@
  *
  * Web Service Type: REST
  *
- * Authentication: Basic - username : testuser
- *                         password : M3yJPzevUk5cumQj
- *                         API_KEY : DAm5S3wVZG7B68J8H673VS1EaT15Oy05
- *                         Method : new_order_dispatch
+ * Authentication: Basic - username : 
+ *                         password : 
+ *                         API_KEY : 
+ *                         Method : 
  *
- * Testing Server: https://dev.sallad.online/api
+ * Testing Server: https://sallad.online/api
  *
  * Testing: Stage 1 - User must successfully POST custom headers and receive JSON response.
  *                  - Current response will produce all dispatch orders. When user has
